@@ -1,7 +1,7 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
-# Este é meu primeiro projeto web. 
+## Este é meu primeiro projeto web. 
 
-## Ferramentas utilizadas:
+### Ferramentas utilizadas:
 
 * HTML
 
@@ -11,10 +11,10 @@
 
 * Flex-box
 
-## Feito por:
+### Feito por:
 
-### Matheus Costa  
+#### Matheus Costa  
 
-### Linkedin:https://www.linkedin.com/in/matheus-costa-56a9481ab/)https://www.linkedin.com/in/matheus-costa-56a9481ab/
+#### Linkedin:https://www.linkedin.com/in/matheus-costa-56a9481ab/)https://www.linkedin.com/in/matheus-costa-56a9481ab/
 
 ```
